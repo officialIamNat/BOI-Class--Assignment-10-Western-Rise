@@ -75,10 +75,10 @@ a {
 }
 
 .heroGrid-item1 {
-  background-image: url("/ImagesUsed/Folded Clothes.jpg");
+  background-image: url("./ImagesUsed/Folded Clothes.jpg");
 }
 .heroGrid-item2 {
-  background-image: url("/ImagesUsed/Sewing Factory.jpg");
+  background-image: url("./ImagesUsed/Sewing Factory.jpg");
 }
 
 .gridItem a {
